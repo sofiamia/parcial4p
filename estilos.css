@@ -1,0 +1,81 @@
+.pa{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: url(hola.JPEG);
+	width: 1350px;
+	height: 635px;
+}
+.ma{
+	position: absolute;
+	top: 30px;
+	left: 30px;
+	background: pink;
+	width: 200px;
+	height: 100px;
+	font-family: forte;
+}
+.tema1{
+	position: absolute;
+	top: 150px;
+	left: 180px;
+	background: pink;
+	width: 600px;
+	height: 400px;
+	font-family: forte;
+	display: none;
+
+}
+}
+.bo3{
+	position: absolute;
+	top: 50px;
+	left: 1000px;
+	background: pink;
+	width: 200px;
+	height: 200px;
+}
+.bo3{
+	position: absolute;
+	top: 100px;
+	left: 1000px;
+	background: pink;
+	width: 100px;
+	height: 100px;
+	font-family: forte;
+}
+.bo4{
+	position: absolute;
+	top: 400px;
+	left: 1000px;
+	background: pink;
+	width: 100px;
+	height: 100px;
+	font-family: forte;
+}
+.tema2{
+	position: absolute;
+	top: 150px;
+	left: 180px;
+	background: pink;
+	width: 600px;
+	height: 400px;
+	font-family: forte;
+	display: none;
+}
+.bo2{
+	position: absolute;
+	top: 600px;
+	left: 800px;
+	background: pink;
+	width: 80px;
+	height: 30px;
+}
+.bo5{
+	position: absolute;
+	top: 600px;
+	left: 900px;
+	background: pink;
+	width: 60px;
+	height: 30px;
+}
